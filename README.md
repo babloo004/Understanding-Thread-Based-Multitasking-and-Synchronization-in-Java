@@ -30,8 +30,5 @@ javac Main.java
 java Main
 ```
 
-## GitHub Repository
-
-[Link to Repository](https://github.com/your_username/multithreading-java-examples)
 
 Feel free to explore and experiment with the provided examples. Contributions and feedback are welcome!
